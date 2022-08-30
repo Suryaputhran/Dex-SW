@@ -38,5 +38,3 @@ docker run -d --restart=unless-stopped -p 127.0.0.1:27017:27017 --name mongo -m=
 docker run -it -p 7002:7000 --restart=unless-stopped -d --label=com.centurylinklabs.watchtower.lifecycle.post-check="rm -rf /data/nginx/cache/eostokens && service nginx reload" --label=com.centurylinklabs.watchtower.enable=true --name alcor-ui --add-host=host.docker.internal:172.17.0.9 avral/alcor-ui
 ```
 
-## Created:
-[monarch Lee](https://www.linkedin.com/in/lee-cheng-ri-9086111a1/)

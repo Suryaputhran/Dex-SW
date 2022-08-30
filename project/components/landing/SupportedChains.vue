@@ -32,11 +32,11 @@
             img(src='~/assets/icons/Twitter.svg')
           span.name Twitter
           span.desc Announcements
-        a.item(href="mailto:monarch717930@gmail.com")
+        a.item(href="mailto:pranoysunil24@gmail.com")
           .icon
             img(src='~/assets/icons/Email.svg')
           span.name Email
-          span.desc monarch717930@gmail.com
+          span.desc pranoysunil24@gmail.com
 </template>
 
 <script>
