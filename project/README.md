@@ -15,6 +15,7 @@ Props:
 2. WAX
 3. Telos
 4. Proton
+5. Cryptounit
 
 ## Build Setup
 
